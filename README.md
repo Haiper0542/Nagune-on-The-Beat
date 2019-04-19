@@ -18,7 +18,7 @@
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56401181-a84ee200-6292-11e9-866f-f692f04f006d.png></img>
 * **중앙 하단에 있는 Turn은 0.5초마다 줄어들며, 1턴마다 플레이어는 행동을 할수 있습니다.**<br>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56401184-aa18a580-6292-11e9-8488-2fe9bac07f37.png></img>
-* **중앙 하단에 있는 Turn이 0이되면 플레이어끼리 위치가 바뀌게 됩니다. 위치 변환은 J, 6키로도 할 수 있으며, 이는 턴마다 초기화 됩니다.**<br>
+* **중앙 하단에 있는 Turn이 0이되면 플레이어끼리 위치가 바뀌게 됩니다. <br>위치 변환은 J키 6키로도 할 수 있으며, 이는 턴마다 초기화 됩니다.**<br>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56401186-aab13c00-6292-11e9-8ca0-3092d2f27cbc.png></img>
 * **총알은 G키 혹은 4키를 눌러 발사가 가능하며, 2턴마다 발사할 수 있습니다.**<br>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56401188-ab49d280-6292-11e9-94e6-b38af27cdbf5.png></img>
