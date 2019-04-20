@@ -15,6 +15,9 @@
 + **개발시 난관**
    + Xbox 컨트롤러를 갑작스럽게 개발하게 되어 조작, 2인, 진동등을 구현하는 것에 대해 어려움이 있었습니다.
       + Unity용 Xbox컨트롤러 개발하는 강좌를 스택오버플로우에서 발견하여 해결할 수 있었습니다.
+### 시연 영상
+* [https://youtu.be/71iI9Bs7_Qw](https://youtu.be/71iI9Bs7_Qw) <br>
+
 ### 게임 화면
 * **게임의 메인화면입니다.**<br>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56401178-a6851e80-6292-11e9-875e-f1e9ff3bb645.png></img>
